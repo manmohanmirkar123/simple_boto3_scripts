@@ -1,3 +1,4 @@
+#This Boto3 script will list down all the IAM users
 import boto3
 
 aws_mag_console = boto3.session.Session()
